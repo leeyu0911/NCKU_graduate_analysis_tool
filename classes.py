@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 class PaperData():
     #解析學號意義
     def analytics_studentID(self):
